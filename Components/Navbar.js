@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useTheme } from "next-themes";
 import Link from "next/link";
-import { FaCircleNotch } from "react-icons/Fa";
+import { FaCircleNotch } from "react-icons/fa";
 import { SiAboutDotMe, SiTwitter, SiGithub } from "react-icons/si";
 import { BiSun, BiMoon } from "react-icons/bi";
 
